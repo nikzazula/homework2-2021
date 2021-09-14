@@ -18,7 +18,8 @@ p {
 }
 img {
     display: block;
-    position: center;
+    margin-left: auto;
+    margin-right: auto;
     width: 550px;
     height: auto;
 }
