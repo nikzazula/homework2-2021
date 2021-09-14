@@ -36,6 +36,7 @@ div {
 }
 #yellow {
     background-color: #ffff00;
+    color: black;
     text-align: right;
     text-decoration-color: #000000;
 }
