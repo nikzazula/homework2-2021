@@ -55,9 +55,8 @@ div {
 }
 footer {
     text-align: center;
+    height: auto;
     padding-bottom: 10px;
     padding-right: 10px;
 }
-footer > p {
-    padding-bottom: 10px;
-}
+
