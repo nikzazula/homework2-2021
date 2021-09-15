@@ -58,3 +58,8 @@ footer {
     padding-bottom: 10px;
     padding-right: 10px;
 }
+footer > p {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
